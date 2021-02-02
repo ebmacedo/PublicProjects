@@ -29,7 +29,7 @@ I am IT Technologist by FIAP (FMP) and MBA in Economics by University of São Pa
 ## Projects:
 See my main published projects:
 
-* **Arithmetic operators:** https://bit.ly/2L2cMwy
+* **Arithmetic operators:** https://github.com/ebmacedo/PublicProjects/blob/main/Operadores_Aritme%CC%81ticos.ipynb
 
 
 ---
