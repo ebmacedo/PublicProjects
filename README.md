@@ -22,7 +22,7 @@ I am IT Technologist by FIAP (FMP) and MBA in Economics by University of São Pa
 **Background in:** Python, Machine Learning, Powershell, Azure, O365, SharePoint, PowerBI, Excel, Strategy, IT Governance and Project Management .
 
 **Links:**
-* [LinkedIn](https://www.linkedin.com/in/ederbatista)
+* [LinkedIn](https://www.linkedin.com/in/ederdemacedo/)
 * [Medium](https://www.medium.com)
 
 
