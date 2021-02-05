@@ -23,7 +23,7 @@ I am IT Technologist by FIAP (FMP) and MBA in Economics by University of São Pa
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/ederdemacedo/)
-* [Medium](https://www.medium.com)
+* [Medium](https://eder-macedo.medium.com/)
 
 
 ## Projects:
